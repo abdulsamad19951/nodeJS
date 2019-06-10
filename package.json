@@ -1,0 +1,20 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "This project was made to learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulsamad19951/nodeJS.git"
+  },
+  "author": "Abdul Samad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulsamad19951/nodeJS/issues"
+  },
+  "homepage": "https://github.com/abdulsamad19951/nodeJS#readme"
+}
